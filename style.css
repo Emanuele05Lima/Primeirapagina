@@ -49,11 +49,11 @@
   }
   
   #b{
-      background-color:rgb(226, 170, 170);
+      background-color:rgb(226, 170, 218);
       margin:0;
   }
   #tituloPrincipal{
-      color:rgb(21, 39, 67);
+      color:rgba(20, 94, 214, 0.925);
       font-size: 40px;
       font-family:'Times New Roman';
       text-align: center;
